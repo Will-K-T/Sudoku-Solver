@@ -1,4 +1,4 @@
-# Sudoku-Solver
+# Sudoku Solver
 This is a fully functional sudoku game with auto-solving capabilities written in python using pygame. The user may click on any empty square and type a number that they think goes in said square. If they are right, the number will appear in the square. If they are wrong, they will get an X. Three X’s and you lose the game. If the user has given up on solving the puzzle, they may press the spacebar to have the computer solve it for them. The code reads a board setup from a file so that the user may add more puzzles if they so choose.
 
 Images:
